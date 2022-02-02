@@ -1,5 +1,6 @@
 # LoadFile
 
+## Pic of the main page
 ![loadpic](https://user-images.githubusercontent.com/91989821/152054145-bf7a49c3-2eff-4e5c-b712-289d7b3bdd84.png)
 
 ## Project's aim
